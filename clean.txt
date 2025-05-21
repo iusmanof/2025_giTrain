@@ -1,1 +1,8 @@
 testclean
+<<<<<<< HEAD
+=======
+Bob Alice
+Bob Alice
+123
+asd
+>>>>>>> feature
