@@ -6,3 +6,4 @@ Bob Alice
 123
 asd
 >>>>>>> feature
+some text
