@@ -7,3 +7,4 @@ Bob Alice
 asd
 >>>>>>> feature
 some text
+qwe
